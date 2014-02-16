@@ -1,7 +1,7 @@
 {
   "name": "bootstrap_3",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "version": "3.1.1",
+  "version": "3.1.2",
   
   "categories": ["Frameworks", "UI","CSS"],
   "homepage": "http://getbootstrap.com",
@@ -25,7 +25,7 @@
     "main": "js/bootstrap.js",
 
     "dependencies": {
-      "jquery": ">= 1.9.0"
+      "jquery-noglobal": ">= 1.9.0"
     }
   }
  
